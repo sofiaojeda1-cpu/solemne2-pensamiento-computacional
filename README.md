@@ -44,17 +44,17 @@ Este codigo roduce una animación interactiva fluida donde el abanico se abre o 
 
 
 ### ● Imágenes
-fotos de refernte)
+fotos de refernte:
 <img width="815" height="658" alt="Captura de pantalla 2026-05-22 185209" src="https://github.com/user-attachments/assets/531e1eb6-f238-4ede-bcc7-89d232d188f2" />
 <img width="1022" height="648" alt="Captura de pantalla 2026-05-22 185318" src="https://github.com/user-attachments/assets/e0e23929-aaa3-4cf8-8a46-bb8ffef89650" />
 <img width="821" height="570" alt="Captura de pantalla 2026-05-22 185235" src="https://github.com/user-attachments/assets/c4c219ee-cbe9-4857-b173-e8b989c5240d" />
 
-
-
-#### Capturas del Proceso:
-1. *Estado Inicial (Mouse a la izquierda - Pocas líneas geométricas).*
-2. *Estado de Alta Densidad (Mouse a la derecha - Multiplicación de la forma).*
-3. *Interacción de Click (Aumento en el grosor estructural del abanico).*
+capturas del Proceso:
+<img width="946" height="762" alt="Captura de pantalla 2026-05-22 181043" src="https://github.com/user-attachments/assets/d379d04c-95b7-47ef-beee-55408561db1c" />
+<img width="942" height="757" alt="Captura de pantalla 2026-05-22 181021" src="https://github.com/user-attachments/assets/288a0d42-320f-4192-bbbe-822b1302ad4f" />
+<img width="952" height="774" alt="Captura de pantalla 2026-05-22 181102" src="https://github.com/user-attachments/assets/b6333996-f94a-4688-8c23-c3abfa89c30c" />
+<img width="941" height="768" alt="Captura de pantalla 2026-05-22 181118" src="https://github.com/user-attachments/assets/ce80053b-2a2d-45d8-ac33-559886634bec" />
+<img width="950" height="769" alt="Captura de pantalla 2026-05-22 181134" src="https://github.com/user-attachments/assets/eed0b878-e392-420a-afff-6c2be9e8fb91" />
 
 **Link al Sketch editable en p5.js:** https://editor.p5js.org/sofia.ojeda1/sketches/s0lFNMj4y
 
