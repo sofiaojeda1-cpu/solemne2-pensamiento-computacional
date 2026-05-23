@@ -44,7 +44,12 @@ Este codigo roduce una animación interactiva fluida donde el abanico se abre o 
 
 
 ### ● Imágenes
-*(Nota: Aquí debes anexar capturas de pantalla de tu sketch ejecutándose en diferentes posiciones del mouse, o referentes visuales del diseño paramétrico que inspiraron tu trabajo).*
+(fotos de refernte)
+<img width="815" height="658" alt="Captura de pantalla 2026-05-22 185209" src="https://github.com/user-attachments/assets/531e1eb6-f238-4ede-bcc7-89d232d188f2" />
+<img width="1022" height="648" alt="Captura de pantalla 2026-05-22 185318" src="https://github.com/user-attachments/assets/e0e23929-aaa3-4cf8-8a46-bb8ffef89650" />
+<img width="821" height="570" alt="Captura de pantalla 2026-05-22 185235" src="https://github.com/user-attachments/assets/c4c219ee-cbe9-4857-b173-e8b989c5240d" />
+
+
 
 #### Capturas del Proceso:
 1. *Estado Inicial (Mouse a la izquierda - Pocas líneas geométricas).*
