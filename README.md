@@ -57,5 +57,6 @@ fotos de refernte)
 3. *Interacción de Click (Aumento en el grosor estructural del abanico).*
 
 **Link al Sketch editable en p5.js:** https://editor.p5js.org/sofia.ojeda1/sketches/s0lFNMj4y
+
 **Link al Sketch para visualizar en p5.js:** https://editor.p5js.org/sofia.ojeda1/full/s0lFNMj4y
 
