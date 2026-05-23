@@ -39,7 +39,8 @@ El usuario no es solo un espectador, sino lo que hace que se modifiquen los par�
 matemáticamente usando la función `map()`, la cual normaliza el rango de la pantalla y lo traduce a propiedades de cantidad (de 10 a 100 líneas) y color.
 Este codigo roduce una animación interactiva fluida donde el abanico se abre o se cierra compactando sus líneas, gira sobre su propio eje central y cambia el grosor de sus lineas en tiempo real.
 
-### ● Diagrama de flujo <img width="740" height="2876" alt="diagrama_de_flujo" src="https://github.com/user-attachments/assets/362eb455-4b29-4dd0-bdfe-bc8e3f0f5993" />
+### ● Diagrama de flujo
+<img width="740" height="2876" alt="diagrama_de_flujo" src="https://github.com/user-attachments/assets/362eb455-4b29-4dd0-bdfe-bc8e3f0f5993" />
 
 
 ### ● Imágenes
